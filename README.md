@@ -1,6 +1,8 @@
 ### Hi there 👋
 my name is aymen 
-19y old from algeria
+19y old from algeria 
+
+*concorde interactive technologies / Green Group / Concorde international Entertainment Group*
 
 <!--
 **AymenStudios/AymenStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
