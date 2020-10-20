@@ -1,9 +1,15 @@
 ### Hi there 👋
-my name is aymen 
+I'm aymen 
 19y old from algeria 
 
-*concorde interactive technologies / Green Group / Concorde international Entertainment Group*
+A budding entrepreneur .. Composer and programmer 
 
+*Concorde interactive technologies / Green Group / Concorde international Entertainment Group*
+
+You can contact me by email : aymencarbonaro@gmail.com
+Or Facebook: fb.com/aymen.carbonaro
+
+#Power_Your_Dreams
 <!--
 **AymenStudios/AymenStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
