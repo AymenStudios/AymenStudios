@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm aymen 
-19y old from algeria 
+20y old from algeria 
 
-A budding entrepreneur .. Composer and programmer 
+A budding entrepreneur .. Composer and Software Engineer 
 
 *Concorde interactive technologies / Green Group / Concorde international Entertainment Group*
 
