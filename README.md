@@ -2,6 +2,8 @@
 I'm aymen 
 20y old from algeria 
 
+https://about.me/aymen
+
 A budding entrepreneur .. Composer and Software Engineer 
 
 *Concorde interactive technologies / Green Group / Concorde international Entertainment Group*
@@ -12,6 +14,9 @@ Or Facebook: fb.com/aymen.carbonaro
 
   My Git Repo in Sourcehut:
   https://sr.ht/~aymen/
+
+  My profile repository in Canonical Launchpad:
+  https://launchpad.net/~aymenstudios
 
 #Power_Your_Dreams
 <!--
