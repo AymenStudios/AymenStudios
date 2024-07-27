@@ -1,14 +1,14 @@
 ### Hi there 👋
 I'm aymen 
-20y old from algeria 
+22y old from algeria 
 
 https://about.me/aymen.abdou
 
-A budding entrepreneur .. Composer and Software Engineer 
+Computer Science Generalist / Systems Engineering Specialist + ADHD 
 
-*Concorde interactive technologies / Green Group / Concorde international Entertainment Group*
+*Constructing Software at Atlasco*
 
-You can contact me by email : aymencarbonaro@gmail.com
+You can contact me by email : aymenabdelouahab@proton.me
 Or Facebook: fb.com/aymen.carbonaro
 
 
